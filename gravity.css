@@ -16,13 +16,13 @@
 
 
 
-  --noir: rgba(58 , 126 , 82, 0.82), transparent 50%;
+  --noir: rgba(58 , 126 , 82, 0.82);
 
   --white: white;
 
   --gray: #D3D3D3;
 
-  --main: rgba (71 , 167 , 106 );
+  --main: rgba(71 , 167 , 106 );
 
   --additional: rgba(0 , 155 , 118);
 
