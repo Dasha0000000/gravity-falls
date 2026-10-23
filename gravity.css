@@ -306,11 +306,11 @@ html.visual body {
 
   font-family: var(--instrument);
 
-  font-size: clamp(3rem, 12vw, 13rem);
+  font-size: clamp(3rem, 10vw, 13rem);
 
   font-style: italic;
 
-  font-weight: 400;
+  font-weight: 350;
 
   line-height: 0.78;
 
