@@ -16,7 +16,7 @@
 
 
 
-  --noir: rgba(58 , 126 , 82, 0.82);
+  --noir: rgba(233, 248, 231, 0.60);
 
   --white: white;
 
@@ -36,7 +36,7 @@
 
 
 
-  --page-padding: clamp(18px, 4vw, 52px);
+  --page-padding: clamp(15px, 4vw, 40px);
 
   --cubic: cubic-bezier(0.39, 0.1, 0.94, 0.76);
 
